@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrnesto)](https://github.com/herrnesto/github-readme-stats)
+
 <!--
+
+beispiele
+
+https://github.com/UsamaSarwar/UsamaSarwar#readme
+https://medium.com/analytics-vidhya/7-tips-to-make-your-github-profile-better-3913971c357d
+
 **herrnesto/herrnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
