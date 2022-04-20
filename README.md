@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrnesto)](https://github.com/herrnesto/github-readme-stats)
+[![Anurag's GitHub stats](
+https://github-readme-stats.vercel.app/api/top-langs/?username=herrnesto&theme=dark&layout=compact&langs_count=20&hide_title=true)](https://github.com/herrnesto/github-readme-stats)
 
 <!--
 
